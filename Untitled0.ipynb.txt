@@ -1,0 +1,43 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Untitled0.ipynb",
+      "provenance": [],
+      "collapsed_sections": []
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "code",
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "BPpLe_Y-9cY_",
+        "outputId": "7075c5bc-3e98-4927-d12f-33668079961a"
+      },
+      "source": [
+        "print(\"Welcome to python world! Let's start coding\")"
+      ],
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Welcome to python world! Let's start coding\n"
+          ]
+        }
+      ]
+    }
+  ]
+}
